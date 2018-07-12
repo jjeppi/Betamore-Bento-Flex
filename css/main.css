@@ -8,7 +8,6 @@
   display: flex;
   flex-flow: column wrap;
   margin: 0 auto;
-  position: relative;
   width: 61.5em;
   }
   h1{
