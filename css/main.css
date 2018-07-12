@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+ #bento{
+  border: 10px solid darkgrey;
+  height: 61.5em;
+  display:flex;
+  display: flex;
+  flex-flow: column wrap;
+  margin: 0 auto;
+  position: relative;
+  width: 61.5em;
+  }
+  h1{
+    font-size: 3em;
+    color: white;
+    margin: 0;
+  }
+  .box{
+    padding:1em;
+    margin:.25em;
+  }
+  .box1
+  {
+    background-color: blue;
+    height: 15em;
+  }
+  .box2
+  {
+    background-color: green;
+    height: 41.50em;
+  }
+  .box3
+  {
+    background-color: orange;
+    height: 18em;
+  }
+  .box4
+  {
+    background-color: yellow;
+    height: 18em;
+  }
+  .box5
+  {
+    background-color: purple;
+    height: 18em;
+  }
+  .box6
+  {
+    background-color: brown;
+    height: 28.25em;
+  }
+  .box7
+  {
+    background-color: black;
+    height: 28.25em;
+  }
